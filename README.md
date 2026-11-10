@@ -1,4 +1,4 @@
 
-author:rajat sharma
+author: rajat sharma
 <br>
-githublearning
+github learning
